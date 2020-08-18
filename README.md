@@ -1,7 +1,7 @@
 # Arctic_ConcentrationVariability
 This repository contains data and R code to perform a concentration variability analysis for varying discharge bands. The data is high frequency data collected from the Kuparuk River for 2017, 2018, and 2018.
 
-##Files included:
+## Files included:
  **Data Files**
  - **Kuparuk_chem_2017-2019.csv:** DOC and Nitrate concentration data from Kuparuk river obtained from Arctic LTER data portal;
  - **Kuparuk_Q_2017:** 2017 Discharge data from Kuparuk river obtained from shared project Box folder;
