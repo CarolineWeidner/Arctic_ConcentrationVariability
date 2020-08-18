@@ -11,4 +11,9 @@ This repository contains data and R code to perform a concentration variability 
  **Script Files**
  - **Kuparuk_2017_ConcentrationVariability:** R script performing concentration variability analysis for varying discharge bands for Kuparuk 2017 data;
  - **Kuparuk_2018_ConcentrationVariability:** R script performing concentration variability analysis for varying discharge bands for Kuparuk 2018 data;
- - **Kuparuk_2019_ConcentrationVariability:** R script performing concentration variability analysis for varying discharge bands for Kuparuk 2019 data;
+ - **Kuparuk_2019_ConcentrationVariability:** R script performing concentration variability analysis for varying discharge bands for Kuparuk 2019 data.
+ 
+ **Plot Files**
+ - **Kuparuk_2017_FlowPlots:** Plot of discharge vs. DOC for Kuparuk 2017 data, created by "Kuparuk_2017_ConcentrationVariability" script;
+ - **Kuparuk_2018_FlowPlots:** Plot of discharge vs. DOC for Kuparuk 2018 data, created by "Kuparuk_2018_ConcentrationVariability" script;
+ - **Kuparuk_2019_FlowPlots:** Plot of discharge vs. DOC for Kuparuk 2019 data, created by "Kuparuk_2019_ConcentrationVariability" script.
